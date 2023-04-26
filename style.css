@@ -1,0 +1,54 @@
+.area-colorida {
+  background-color: red; /* Cor de fundo da área colorida */
+  height: 200px; /* Altura da área colorida */
+  width: 100%; /* Largura da área colorida */
+  position: relative; /* Define a posição relativa para a área colorida */
+  z-index: 1; /* Define a ordem de camada da área colorida */
+}
+.centro-grande {
+  text-align: center;
+  font-size: 100px;
+  line-height: 2.0s
+}
+ul {
+   text-align: right;
+}
+
+li {
+  display: inline-block;
+  margin-right: 270px;
+  font-size: 30px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 50px;
+}
+
+.ficar {
+  text-align: center;   
+  font-size: 50px;
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.box {
+  width: 300px;
+  height: 150px;
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+body {
+  color: black;
+}
